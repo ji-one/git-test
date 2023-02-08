@@ -11,6 +11,7 @@ class GitTestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		String key = "***REMOVED***";
 	}
 
 }
