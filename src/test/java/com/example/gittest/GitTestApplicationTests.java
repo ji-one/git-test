@@ -7,6 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class GitTestApplicationTests {
 
 	private static final String accessKey = "***REMOVED***";
+	private static final String secretKey = "***REMOVED***";
 
 	@Test
 	void contextLoads() {
